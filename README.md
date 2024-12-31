@@ -3,12 +3,12 @@
 This repository contains Java code for implementing two MapReduce jobs in Hadoop. These jobs demonstrate how to process and analyze datasets using the MapReduce framework. The focus is on filtering buyers by age and summarizing purchase data.
 
 
-### Dataset Creation 🛠️
+## Dataset Creation 🛠️
 
 The datasets (Buyers and Purchases) were generated using Python in the **`DataSet.py`** file. The Python code used for dataset creation ensures that realistic and diverse synthetic data is created for testing and analysis.
 
 
-### Dataset Description 📈
+## Dataset Description 📈
 
 The datasets used are structured as follows:
 
@@ -28,7 +28,7 @@ Contains records of purchases, including Buyer IDs and the prices of the purchas
 - **purchNumItems:** Random integer between 1 and 10.
 
 
-### MapReduce Jobs 📊
+## MapReduce Jobs 📊
 
 #### 1️. Buyers Job (Map-only)
 - **Goal:** Identify buyers whose age falls between 20 and 50.

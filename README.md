@@ -5,7 +5,7 @@ This repository contains Java code for implementing two MapReduce jobs in Hadoop
 
 ## Dataset Creation 🛠️
 
-The datasets (Buyers and Purchases) were generated using Python in the **`DataSet.py`** file. The Python code used for dataset creation ensures that realistic and diverse synthetic data is created for testing and analysis.
+The datasets (Buyers and Purchases) were generated using Python in the **`DataSet.py`** file. This Python code creates realistic and varied synthetic data, specifically tailored for processing with Hadoop MapReduce jobs. The diverse datasets enhance the effectiveness of testing and analysis in data-intensive applications.
 
 
 ## Dataset Description 📈

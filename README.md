@@ -65,6 +65,6 @@ Contains records of purchases, including Buyer IDs and the prices of the purchas
 
 
 ### **Output Files**
+- **`part-r-00000`**: Result file of the job.
 - **`_SUCCESS`**: Marker file indicating successful completion of the MapReduce job. It is generated automatically by Hadoop in the output directories.
-- **`part-r-00000`**: Output file of the job.
 

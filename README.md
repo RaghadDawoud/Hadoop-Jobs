@@ -1,6 +1,6 @@
 # Hadoop MapReduce Jobs 🐘
 
-This repository contains Java code for implementing two MapReduce jobs in Hadoop. These jobs demonstrate how to process and analyze datasets using the MapReduce framework. The focus is on filtering buyers by age and summarizing purchase data.
+This repository contains Java code for implementing two MapReduce jobs in Hadoop. These jobs demonstrate how to process and analyze datasets using the MapReduce framework, focusing on filtering buyers by age and summarizing purchase data. The code was developed and locally tested using IntelliJ to ensure functionality and performance before deployment.
 
 
 ## Dataset Creation 🛠️

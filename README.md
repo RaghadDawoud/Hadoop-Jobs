@@ -30,13 +30,13 @@ Contains records of purchases, including Buyer IDs and the prices of the purchas
 
 ## MapReduce Jobs 📊
 
-#### 1️. Buyers Job (Map-only)
+#### 1. Buyers Job (Map-only)
 - **Goal:** Identify buyers whose age falls between 20 and 50.
 - **Input:** A CSV file containing buyer data.
 - **Output:** Filtered records with buyer details.
 - **Code File:** `BuyersFirstJob.java`
 
-#### 2️. Purchases Job (MapReduce)
+#### 2. Purchases Job (MapReduce)
 - **Goal:** Compute for every buyer, the total number of purchases and the total sum of purchase prices.
 - **Input:** A CSV file containing purchase data.
 - **Output:** Aggregated results for each buyer.
